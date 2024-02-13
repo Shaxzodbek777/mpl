@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "420542615823",
+    "project_id": "mplapp-380dd",
+    "storage_bucket": "mplapp-380dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:420542615823:android:560a15af6eacb4a112ee7a",
+        "android_client_info": {
+          "package_name": "com.example.mpl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoV84WC7VYE2dEIS9y2sq00TmJP4oAfME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
